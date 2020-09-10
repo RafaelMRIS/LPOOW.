@@ -17,5 +17,5 @@ Com o tempo, Shurima sucumbiu, como é o destino de todos os impérios.
 
 Sem nenhum monarca para defender e sem a ameaça existencial do Vazio para enfrentar, Aatrox e os Solnatos começaram a entrar em desavença, e essas desavenças acabaram virando uma guerra pelo que restava de seu mundo. Os mortais, fugindo do conflito, passaram a chamá-los por um nome novo e desdenhoso: os darkin.
 
-![tenor.gif](https://github.com/RafaelMRIS/LPOOW./blob/master/tenor.gif)
+![dsasdad](https://github.com/RafaelMRIS/LPOOW./blob/master/tenor.gif)
 ## Para saber mais sobre a [lore.](https://universe.leagueoflegends.com/pt_BR/story/champion/aatrox/)
